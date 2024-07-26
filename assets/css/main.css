@@ -3,13 +3,13 @@
 
 /* adding my own css */
 
-.image-container {
-  width: 337.5px; /* Desired width */
-  height: 450px; /* Desired height */
+/* .image-container {
+  width: 337.5px; 
+  height: 450px; 
   overflow: hidden;
-  position: relative; /* Necessary for absolute positioning of img */
+  position: relative; 
   display: inline-block;
-  margin: 0 50px; /* Add horizontal margin to separate the articles */
+  margin: 0 50px; 
 }
 
 .image-container img {
@@ -27,7 +27,7 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0, 0, 0, 0.6); /* Transparent black color */
+	background-color: rgba(0, 0, 0, 0.6);
 	color: white;
 	display: flex;
 	align-items: center;
@@ -46,11 +46,11 @@
   }
   
   ul.actions.special {
-	display: flex; /* Use flexbox to manage spacing and alignment */
-	justify-content: center; /* Center the articles within the section */
+	display: flex; 
+	justify-content: center; 
 	padding: 0;
 	list-style: none;
-  }
+  } */
 
 
 
